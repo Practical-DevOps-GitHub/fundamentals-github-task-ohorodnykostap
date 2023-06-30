@@ -1,1 +1,1 @@
-
+ assert(content.include?(user_name), "User #{user_name}
