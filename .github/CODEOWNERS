@@ -1,1 +1,1 @@
-
+assert(content.include?(@online-marathon), "User #{user_name}
